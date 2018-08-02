@@ -31,7 +31,7 @@ enableMissingTranslationPlaceholders = false
 editURL = "https://github.com/qredo/Qredo-Documentation/blob/develop/content/"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
-themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeVariant = "red" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
@@ -46,7 +46,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
-name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+name = "<i class='fa fa-github'></i> <label>Github repos</label>"
 identifier = "ds"
 url = "https://github.com/Qredo"
 weight = 10
@@ -63,6 +63,6 @@ url = "https://github.com/Qredo/Qredo-Documentation/wiki"
 weight = 20
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Developer Google Group</label>"
-url = "/credits"
+name = "<i class='fa fa-bullhorn'></i> <label>Mailing List</label>"
+url = "https://groups.google.com/a/qredo.org/d/forum/dev"
 weight = 30
