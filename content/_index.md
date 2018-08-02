@@ -1,6 +1,6 @@
 ---
-title: New Post
-slug: "/index"
+title: Home Page
+slug: "/"
 ---
 
 # Quantum Resistant Distributed Ledger Operations
