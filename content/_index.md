@@ -3,7 +3,7 @@ title: Home Page
 slug: "/"
 ---
 
-# Quantum Resistant Distributed Ledger Operations
+# QREDO DOCUMENTAION
 
 This is yowzer
 
@@ -11,6 +11,6 @@ This is yowzer
 
 Is bowzer
 
-+ who owns cars
-+ like whiskey
-+ and creature
+* who owns cars
+* like whiskey
+* and creature
