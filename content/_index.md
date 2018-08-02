@@ -3,7 +3,7 @@ title: New Post
 slug: "/index"
 ---
 
-# Introduction
+# Quantum Resistant Distributed Ledger Operations
 
 This is yowzer
 
