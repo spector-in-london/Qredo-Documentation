@@ -2,7 +2,7 @@ lbaseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Qredo Documentations"
+title = "Qredo Documentation"
 theme = "docdock"
 # themesdir = "../.."
 pygmentsCodeFences = true
@@ -28,7 +28,7 @@ enableMissingTranslationPlaceholders = false
 
 
 [params]
-editURL = "https://github.com/qredo"
+editURL = "https://github.com/Qredo/Qredo-Documentation/"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
 themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
@@ -48,21 +48,21 @@ home = [ "HTML", "RSS", "JSON"]
 pre = "<h3>More</h3>"
 name = "<i class='fa fa-github'></i> <label>Github repo</label>"
 identifier = "ds"
-url = "https://github.com/vjeantet/hugo-theme-docdock"
+url = "https://github.com/Qredo"
 weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-cloud-download'></i> <label>Download</label>"
-url = "https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip"
+url = "https://github.com/Qredo"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
+name = "<i class='fa fa-bookmark'></i> <label>Qredo Documentation Wiki</label>"
+identifier = "Qredo Documentation Wiki"
+url = "https://github.com/Qredo/Qredo-Documentation/wiki"
 weight = 20
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
+name = "<i class='fa fa-bullhorn'></i> <label>Developer Google Group</label>"
 url = "/credits"
 weight = 30
