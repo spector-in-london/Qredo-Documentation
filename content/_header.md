@@ -1,0 +1,1 @@
+![Image of Qredo](logo_small.png)
