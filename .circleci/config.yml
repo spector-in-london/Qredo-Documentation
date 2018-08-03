@@ -6,9 +6,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~/Qredo-Documentation
+    working_directory: /home/ubuntu/Qredo-Documentation
     environment:
-      HUGO_BUILD_DIR: ~/Qredo-Documentation/public
+      HUGO_BUILD_DIR: /home/ubuntu/Qredo-Documentation/public
     steps:
 #       install git
       - run: apk update && apk add git
@@ -28,7 +28,7 @@ jobs:
 #              --empty-alt-ignore --disable-external
 
       # deploy to aerobatic
-      - run: aero deploy --directory ~/Qredo-Documentation/public
+      - run: aero deploy --directory /home/ubuntu/Qredo-Documentation/public
     
 # `deploy` step: identical to a `run` step, but uses only one container:
 # https://circleci.com/docs/2.0/configuration-reference/#deploy
