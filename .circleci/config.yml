@@ -28,7 +28,7 @@ jobs:
 #              --empty-alt-ignore --disable-external
 
       # deploy to aerobatic
-      - run: aero deploy -directory ~/hugo/public
+      - run: aero deploy --directory ~/hugo/public
     
 # `deploy` step: identical to a `run` step, but uses only one container:
 # https://circleci.com/docs/2.0/configuration-reference/#deploy
