@@ -17,7 +17,7 @@ jobs:
       - run: apk add --update nodejs nodejs-npm
     #   install aerobatic cli
       - run: npm install aerobatic-cli --global
-      - run: sudo npm install aerobatic-cli --global
+
       - run: aero create
 
     #   checkout the repository
