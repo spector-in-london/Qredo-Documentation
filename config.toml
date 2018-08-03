@@ -43,7 +43,6 @@ enableGitInfo = true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
 name = "<i class='fa fa-slack'></i> <label>Slack Invite Page</label>"
@@ -56,20 +55,20 @@ pre = "<h3>More</h3>"
 name = "<i class='fa fa-github'></i> <label>Github repos</label>"
 identifier = "ds"
 url = "https://github.com/Qredo"
-weight = 10
+weight = 12
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-cloud-download'></i> <label>Download</label>"
+name = "<i class='fa fa-cloud-download'></i> <label>Downloads</label>"
 url = "https://github.com/Qredo"
-weight = 11
+weight = 14
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> <label>Qredo Documentation Wiki</label>"
+name = "<i class='fa fa-bookmark'></i> <label>Documentation GitHub Wiki</label>"
 identifier = "Qredo Documentation Wiki"
 url = "https://github.com/Qredo/Qredo-Documentation/wiki"
-weight = 20
+weight = 13
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Mailing List</label>"
+name = "<i class='fa fa-bullhorn'></i> <label>Developer Mailing List</label>"
 url = "https://groups.google.com/a/qredo.org/d/forum/dev"
-weight = 30
+weight = 11
