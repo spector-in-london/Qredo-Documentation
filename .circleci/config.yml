@@ -25,7 +25,7 @@ jobs:
 #              --empty-alt-ignore --disable-external
 
       # deploy to aerobatic
-      - run: areo deploy -d $HUGO_BUILD_DIR
+      - deploy: areo deploy -d $HUGO_BUILD_DIR
     
 # `deploy` step: identical to a `run` step, but uses only one container:
 # https://circleci.com/docs/2.0/configuration-reference/#deploy
