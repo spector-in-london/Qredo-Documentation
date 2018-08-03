@@ -17,6 +17,8 @@ jobs:
       - run: apk add --update nodejs nodejs-npm
     #   install aerobatic cli
       - run: npm install aerobatic-cli --global
+      - run: sudo npm install aerobatic-cli --global
+      - run: aero create
 
     #   checkout the repository
       - checkout
@@ -28,7 +30,7 @@ jobs:
 #              --empty-alt-ignore --disable-external
 
       # deploy to aerobatic
-      - run: areo deploy -directory ~/hugo/public
+      - run: sudo areo deploy -directory ~/hugo/public
     
 # `deploy` step: identical to a `run` step, but uses only one container:
 # https://circleci.com/docs/2.0/configuration-reference/#deploy
