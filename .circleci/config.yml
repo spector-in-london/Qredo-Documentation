@@ -20,9 +20,9 @@ jobs:
       - run: npm install aerobatic-cli -g
       # build with Hugo
       - run: HUGO_ENV=development hugo -v -d $HUGO_BUILD_DIR
-      - run: |
-              htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
-              --empty-alt-ignore --disable-external
+#      - run: |
+#              htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
+#              --empty-alt-ignore --disable-external
 
       # deploy to aerobatic
       - run: areo deploy -d $HUGO_BUILD_DIR
