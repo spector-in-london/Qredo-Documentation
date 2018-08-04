@@ -1,5 +1,5 @@
 +++
-title = "Minter Operations"
+title = "Qredo Cryptocurrency"
 description = ""
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type=""
@@ -12,5 +12,5 @@ lastmodifierdisplayname = "Qredo Community"
 # LastModifier's Email
 lastmodifieremail = "community@qredo.org"
 alwaysopen = true
-weight = 3
+weight = 1
 +++
