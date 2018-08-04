@@ -11,6 +11,7 @@ creatoremail = "community@qredo.org"
 lastmodifierdisplayname = "Qredo Community"
 # LastModifier's Email
 lastmodifieremail = "community@qredo.org"
+alwaysopen = true
 +++
 
 ## Coming Soon
