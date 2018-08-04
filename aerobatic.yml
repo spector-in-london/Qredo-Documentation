@@ -8,5 +8,5 @@ plugins:
     options:
       clientId: LVXkgPZiZa2eHi2VpY5x5CbSbK1jZM2R
       clientSecret: 19DNZeDuvktMJQJ4LW1l4Q3xcrNq2d_jvkGJIBR4V5zUHLDShCG0OVAY3xv5GKWV
-      tenant: qredo.eu.
+      tenant: qredo.eu
   - name: webpage
