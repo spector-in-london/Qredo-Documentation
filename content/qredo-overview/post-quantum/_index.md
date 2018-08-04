@@ -1,5 +1,5 @@
 +++
-title = "Qredo Cryptocurrency"
+title = "Post-Quantum Cryptography"
 description = ""
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type=""
@@ -14,3 +14,4 @@ lastmodifieremail = "community@qredo.org"
 alwaysopen = true
 weight = 1
 +++
+## TBC

@@ -13,7 +13,4 @@ lastmodifierdisplayname = "Qredo Community"
 lastmodifieremail = "community@qredo.org"
 alwaysopen = true
 +++
-
-## Coming Soon
-
-Some stuff.
+## TBC
