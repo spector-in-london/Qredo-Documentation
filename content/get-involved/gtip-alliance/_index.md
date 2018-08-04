@@ -1,6 +1,6 @@
 +++
-title = "Qredo Documentation Home"
-description = "Qredo Documentation Index Page"
+title = "GTiP Alliance"
+description = "Global Telecom Inter-Payment Alliance"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="default"
 # Creator's Display name

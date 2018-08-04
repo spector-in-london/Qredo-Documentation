@@ -1,6 +1,6 @@
 +++
-title = "Qredo Documentation Home"
-description = "Qredo Documentation Index Page"
+title = "Get Involved"
+description = "Get Involved Page"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="default"
 # Creator's Display name
