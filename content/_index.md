@@ -13,22 +13,13 @@ lastmodifierdisplayname = "Qredo Community"
 lastmodifieremail = "community@qredo.org"
 +++
 <section>
-
-<p><img src="https://s3-us-west-1.amazonaws.com/qredo-assets/logo_small.png" alt="Logo" /></p>
-
 <h2 id="what-is-qredo">What is Qredo?</h2>
-
 <p>Qredo is a cryptocurrency.</p>
 
 <h2 id="documentation">Documentation</h2>
-
 <p>This documentation is, as the <a href="https://qredo.org">Qredo</a> project, currently under development and the various
 information provided here may be subject to changes in the near future. You can help us making it better by opening an
 issue on <a href="https://github.com/qredo/Qredo-Documentation/issues">Github</a> if you spot an error or if you think of any
 improvement.</p>
 
 </section>
-## Coming Soon
-
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
