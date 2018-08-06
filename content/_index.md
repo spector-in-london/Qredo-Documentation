@@ -24,4 +24,6 @@ information provided here may be subject to changes in the near future. You can 
 issue on <a href="https://github.com/qredo/Qredo-Documentation/issues">Github</a> if you spot an error or if you think of any
 improvement.</p>
 
+$ax^2+bx+c=0$
+
 </section>
