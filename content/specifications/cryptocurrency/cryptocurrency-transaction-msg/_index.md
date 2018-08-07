@@ -1,5 +1,5 @@
 +++
-title = "Cryptocurrenty Transaction Msg"
+title = "Transaction Msg"
 description = ""
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="default"
