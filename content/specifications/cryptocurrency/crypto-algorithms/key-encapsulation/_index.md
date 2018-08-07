@@ -1,5 +1,5 @@
 +++
-title = "Crypto Algorithms"
+title = "Key Encapsulation"
 description = ""
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="default"
@@ -12,6 +12,6 @@ lastmodifierdisplayname = "Qredo Community"
 # LastModifier's Email
 lastmodifieremail = "community@qredo.org"
 alwaysopen = false
-weight = 1
+weight = 3
 +++
 ## TBC

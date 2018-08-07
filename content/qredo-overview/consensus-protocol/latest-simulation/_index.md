@@ -1,5 +1,5 @@
 +++
-title = "Crypto Algorithms"
+title = "Simulation Report"
 description = ""
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="default"
